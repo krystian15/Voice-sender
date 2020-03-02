@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "chrome_driver_path": "./chromedriver",
+    "page_url": "https://www.messenger.com/",
+    "user_target": "",
+    "language": "en"
+  },
+  "user" : {
+    "phone": "",
+    "email": "",
+    "password": ""
+  }
+}
